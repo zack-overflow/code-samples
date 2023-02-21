@@ -1,0 +1,5 @@
+1. The top ticker was CL from day 2, which generated a profit of 989!
+
+2. I understood this question to ask me to find the best stock if you were allowed to buy and sell at any point within the five day period. In that case, the top ticker was TRIP, which generated a profit of 996!
+
+3. I found the question prompt slightly confusing, but I interpreted it to mean that we wanted to look for the sector whose stocks had the greatest sum of performance. By performance, I mean the difference between the stock's price on the last day compared to the first day. Given this interpretation, the top ticker was Property, which generated a profit of 3582!
